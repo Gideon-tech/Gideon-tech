@@ -48,8 +48,7 @@ I have experience working with various programming languages, frameworks, and to
 I have worked on various projects, from AI models to full-stack web applications. Here are some highlights:
 
 - **[AI Chatbot Integration for SMEs](#)** - Built AI-powered chatbot workflows for automation.
-- **[Campus Trends Blog - CampusBuzz.co](https://campusbuzz.co)** - A website covering stories in tech and trends.
-- 
+- **[Campus Trends Blog - CampusBuzz.co](https://campusbuzz.co)** - A website covering stories in tech and trends. 
 
 ---
 
@@ -58,7 +57,8 @@ I have worked on various projects, from AI models to full-stack web applications
 I'm always open to collaborating on exciting projects, learning new technologies, and exploring AI innovations.
 
 - 📧 Email: [paintingislife592@gmail.com](mailto\:paintingislife592@gmail.com)
-- 🔗 LinkedIn: [Maku Gideon](https://linkedin.com/in/maku-gideon)
+- 🔗 LinkedIn: [Maku Gideon](https://linkedin.com/in/maku-gideon-897a95315/)
 - 🌍 Portfolio Website: [Coming Soon!]
-- 📱 WhatsApp: +256758246468 
+- 📱 WhatsApp: +256758246468
+
 
