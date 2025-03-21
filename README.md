@@ -48,7 +48,8 @@ I have experience working with various programming languages, frameworks, and to
 I have worked on various projects, from AI models to full-stack web applications. Here are some highlights:
 
 - **[AI Chatbot Integration for SMEs](#)** - Built AI-powered chatbot workflows for automation.
-- **[Campus Trends Blog - CampusBuzz.co](https://campusbuzz.co)** - A website covering stories in tech and trends. 
+- **[Campus Trends Blog - CampusBuzz.co](https://campusbuzz.co)** - A website covering stories in tech and trends.
+- **[Patro Uganda Blog - patroug.com](https://patroug.com)** - Biggest News Sharing Platform in Uganda
 
 ---
 
